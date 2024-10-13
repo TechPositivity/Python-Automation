@@ -20,7 +20,7 @@ A collection of Python automation scripts designed to streamline repetitive task
 #### How to Use:
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/techpositivity/python-automation.git](https://github.com/TechPositivityHub/Python-Automation.git)
+   git clone https://github.com/techpositivity/python-automation.git
    ```
 2. Install dependencies:  
    ```bash
